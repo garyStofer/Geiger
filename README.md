@@ -12,4 +12,7 @@ Some tuning of the code is required for best operation.
 Specifically the Anode voltage needs to be adjusted for the GM tube chosen, usually around 400V. A 10 to 100Gohm resistor divider needs to be used in order to measure the voltage.  
 
 With attached USB?UART converter the device provides data to a PC tool from RH-Electronics to monitor and graph the readings.
+
+Bare PCB can be ordered from OSH PCB 
+<a href="https://oshpark.com/shared_projects/8asBUqMk"><img src="https://a800d827b6de8403a51e-6ffc2e718631809086ea40332b2055f7.ssl.cf1.rackcdn.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
   
